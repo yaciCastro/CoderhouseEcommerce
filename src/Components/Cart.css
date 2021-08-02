@@ -1,0 +1,12 @@
+.contain{
+
+    width: 100%;
+    max-width: 1200px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 50px;
+    text-decoration: none;
+
+}
+

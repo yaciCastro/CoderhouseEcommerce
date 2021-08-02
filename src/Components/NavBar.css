@@ -1,0 +1,27 @@
+center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title{
+    text-align: center;
+    font-size: 20px;
+    color: #e1bee7;
+    margin: 50px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.title-user{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+
+.margen{
+    margin-left: 60px;
+    margin-right: 10px;
+}
